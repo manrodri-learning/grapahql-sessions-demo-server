@@ -3630,6 +3630,34 @@
       "level": "Intermediate",
       "day": "Thursday",
       "id": "814b1f5e-e6df-440b-a91c-df198b5bbed2"
+    },
+    {
+      "title": "My new session",
+      "description": "this is a great session",
+      "level": "Intermediate",
+      "day": "Thursday",
+      "id": "7b5072a8-dfbf-4483-9c96-c16150e888a5"
+    },
+    {
+      "title": "foo",
+      "description": "bar",
+      "level": "Intermediate",
+      "day": "Thursday",
+      "id": "5c9b215b-fbd5-4d3c-9a1d-fa74a08de52a"
+    },
+    {
+      "title": "my new session II",
+      "description": "foo bar",
+      "level": "Intermediate",
+      "day": "Wednesday",
+      "id": "a3aed344-0b84-4a69-bddd-80a5cab6bbce"
+    },
+    {
+      "title": "foo bar knight",
+      "description": "foo bar",
+      "level": "Intermediate",
+      "day": "Wednesday",
+      "id": "0921bc3f-13d6-4255-ba49-3be0cb323bb0"
     }
   ]
 }
